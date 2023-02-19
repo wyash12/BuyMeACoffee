@@ -3,6 +3,7 @@ pragma solidity ^0.8.9;
 
 // Uncomment this line to use console.log
 // import "hardhat/console.sol";
+// deployed to Goerli test net : 0xc0C0Ca510D88ad7D1C1b8B085BC3A244641Ab4A8
 
 contract BuyMeACoffee{
     event NewMemo(
